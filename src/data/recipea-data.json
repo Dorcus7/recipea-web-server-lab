@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Spaghetti with White Sauce",
+    "cookingMethod": "stove-top boil",
+    "ingredients": [
+      "spaghetti",
+      "butter",
+      "flour",
+      "milk",
+      "salt",
+      "pepper",
+      "garlic",
+      "parmesan cheese"
+    ]
+  },
+  {
+    "name": "Fried Chicken",
+    "cookingMethod": "deep fry",
+    "ingredients": [
+      "chicken",
+      "flour",
+      "salt",
+      "pepper",
+      "garlic",
+      "oil"
+    ]
+  },
+  {
+    "name": "Baked Chicken",
+    "cookingMethod": "oven bake",
+    "ingredients": [
+      "chicken",
+      "salt",
+      "pepper",
+      "garlic",
+      "oil"
+    ]
+  }
+]
